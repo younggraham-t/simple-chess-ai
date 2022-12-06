@@ -25,3 +25,5 @@ and use the undo button to undo a move (undo will undo the last move made by eit
 credits to 
 https://github.com/SebLague/Chess-AI for move generator and
 https://github.com/shd101wyy/Chess for GUI
+#
+project idea from https://www.youtube.com/watch?v=U4ogK0MIzqk&t=914s&ab_channel=SebastianLague
