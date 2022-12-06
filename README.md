@@ -1,11 +1,11 @@
 ### Simple Chess AI written in Java
 
-# GUI Written by wangyiyi and modified by Graham Young
-
-# AIBoard, Legal Move Generator, and related classes written in C# by SebLague and converted to Java by Graham Young
-
-# AI Search and related classes written by Graham Young
-
+ GUI Written by wangyiyi and modified by Graham Young
+#
+ AIBoard, Legal Move Generator, and related classes written in C# by SebLague and converted to Java by Graham Young
+#
+ AI Search and related classes written by Graham Young
+#
 This project is a simple implementation of a negamax algorithm to 
 search for and play a move in chess
 
