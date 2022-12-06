@@ -1028,8 +1028,8 @@ public class ChessBoard {
      * refactored to use fenSetupMethod by Graham Young on 11/12/22
      */
     public void generateStandardBoard(){
-    	//setupBoardFromFen(STARTING_FEN);
-    	setupBoardFromFen("r3k2r/p1ppqpb1/bn2pnp1/3PN3/1p2P3/2N2Q1p/PPPBBPPP/R3K2R w KQkq - 0 1");
+    	setupBoardFromFen(STARTING_FEN);
+    	//setupBoardFromFen("r3k2r/p1ppqpb1/bn2pnp1/3PN3/1p2P3/2N2Q1p/PPPBBPPP/R3K2R w KQkq - 0 1");
     }
 
 
