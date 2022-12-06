@@ -1,5 +1,6 @@
 ### Simple Chess AI written in Java
 
+#
  GUI Written by wangyiyi and modified by Graham Young
 #
  AIBoard, Legal Move Generator, and related classes written in C# by SebLague and converted to Java by Graham Young
