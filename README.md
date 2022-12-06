@@ -19,3 +19,9 @@ During a game use the Restart button to restart from the standard start position
 use the Forfeit button to forfeit,
 and use the undo button to undo a move (undo will undo the last move made by either the player or the AI so use it twice to undo your move)
 
+
+
+#
+credits to 
+https://github.com/SebLague/Chess-AI for move generator
+https://github.com/shd101wyy/Chess for GUI
